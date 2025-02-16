@@ -8,4 +8,6 @@ The Goal of this Analysis was to Examine the Spending Behavior of Customers duri
 - Libraries: Pandas, Matplotlib, Seaborn
 - IDE: Jupyter Notebook
 ## 📈 Project Details  
-For more details, visit: [My Portfolio Website](https://youtube.com)
+For more details, visit: [My Portfolio Website](
+https://nikhilkanojia.pages.dev/projects/Walmart%20Black%20Friday%20Sales%20Analysis)
+
